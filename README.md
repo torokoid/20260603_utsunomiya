@@ -208,6 +208,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">それぞれの機体をアップで撮影</span></h2>
 <a href="20260603_014.JPG" target="_blank"><img src="20260603_014.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20260603_015.JPG" target="_blank"><img src="20260603_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">西の空の雲が風に吹かれて飛んでました</span></h2>
 <div class="youtube-wrapper">
@@ -215,7 +216,6 @@ p.note { display: none; }
     </div>
 
 <h2><span class="yellow">スーパーのお花屋さんのお花たちが綺麗に満開</span></h2>
-<a href="20260603_015.JPG" target="_blank"><img src="20260603_015.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260603_016.JPG" target="_blank"><img src="20260603_016.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260603_017.JPG" target="_blank"><img src="20260603_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260603_018.JPG" target="_blank"><img src="20260603_018.JPG" alt="サンプル画像" class="responsive-media"></a>
